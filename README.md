@@ -30,7 +30,3 @@ This project focuses on:
 The laser scans from front and rear sensors are combined into a 360° view and filtered to exclude parts of the robot itself.  
 A navigation pipeline is implemented to drive the simulated robot through a sequence of goals defined in a CSV file.
 
----
-
-## 📁 Project Structure
-
